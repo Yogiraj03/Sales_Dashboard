@@ -36,6 +36,8 @@ This dataset contains order details for various office supplies, including custo
 4. Shipping costs vary widely, which might impact profitability based on the order size and location.  
 
 
+ScreenShot of Dashboard
+
 ![DashBoard](https://github.com/user-attachments/assets/7141798d-5a60-44c3-a361-0a01b396b894)
 
 ---
